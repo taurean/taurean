@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**taurean/taurean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Taurean Bryant**. I'm a designer and webdeveloper living in the Bay Area. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him/His
+- 🔭 I’m currently working on getting my personal site live and active.
+- 🌱 I’m currently learning Javascript and Eleventy.
+- 📫 How to reach me:
+  - 📨 taurean@hey.com
+  - 🐦  [_taurean](https://twitter.com/_taurean)
+  - 📸  [taurean_](https://instagram.com/taurean_)
+  - 🐙  [taurean](https://github.com/taurean)
