@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **Taurean Bryant**. I'm a designer and webdeveloper living in the Bay Area. 
+My name is **Taurean Bryant**. I'm a designer and web developer living in the Bay Area. 
 
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on getting my personal site live and active.
